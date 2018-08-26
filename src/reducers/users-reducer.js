@@ -9,7 +9,7 @@ export default function(){
         },
         {
             id: 2,
-            first: "Jhon",
+            first: "John",
             last: "Doe",
             age: 21,
             description: "A youtuber"
