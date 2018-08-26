@@ -5,7 +5,7 @@ export default function(){
             first: "Shibu",
             last: "Thanniikkunnath",
             age: 30,
-            description: "A ppolyglot programmer"
+            description: "A polyglot programmer"
         },
         {
             id: 2,
